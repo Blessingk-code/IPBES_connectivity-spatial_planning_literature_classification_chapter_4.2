@@ -1,4 +1,4 @@
-# IPBES_connectivity-spatial_planning_literature_classification_chapter_4.2
+# IPBES connectivity & spatial_planning literature classification Chapter 4.2
 
 **Overview**
 This repository contains the data, code, and documentation supporting the literature classification process used in the IPBES Spatial Planning and Connectivity Assessment (Chapter 4.2).
